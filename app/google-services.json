@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "113999735372",
+    "project_id": "farming-app-55875",
+    "storage_bucket": "farming-app-55875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113999735372:android:1faa71a9a0dd4218f6a2e9",
+        "android_client_info": {
+          "package_name": "com.blankspace.farmingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113999735372-82kkhvctchecq1f5o5764gkn89qi46gg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blankspace.farmingapp",
+            "certificate_hash": "8c5938bc2b60f050e0c8cbd90cf9a1aeda95a6c6"
+          }
+        },
+        {
+          "client_id": "113999735372-00unn0045eg12qu9d34bq2hnjsln7sgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMe6-c0ymui4mYvLiNCZdey7JUH5X-pU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113999735372-00unn0045eg12qu9d34bq2hnjsln7sgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
